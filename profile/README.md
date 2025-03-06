@@ -1,8 +1,6 @@
 ![Github Organization](https://github.com/user-attachments/assets/7cb9d17a-83f9-41d1-9349-cae3459e98cb)
 
-LaunchBlock is a all in one deployment, build and hosting platform for Minecraft. We allow people to quickly get their game from plan to players.
-
-It's as simple as creating a repository with your files, hopping into our panel, grabbing the ip and inviting players!
+LaunchBlock is a all in one deployment, build and hosting platform for Minecraft. We allow people to quickly get their game from plan to players. It's as simple as creating a GitHub repository with your server files, hopping into our panel, grabbing the ip and inviting players!
 
 🔗 [Read all about us!](https://launchblock.gg)
 
