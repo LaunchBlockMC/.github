@@ -13,7 +13,7 @@ At LaunchBlock, we believe every touch point should be open, to make it easier t
 As a result, we have a handful of open-source API, SDK, Documentation and Plugin repositories.
 
 🔗 [Documentation Repository](https://github.com/launchblockmc/ui-docs)
-🔗 [API Repository](https://github.com/launchblockmc/api-gateway)
+🔗 [API Repository](https://github.com/launchblockmc/api)
 🔗 [SDK Repository](https://github.com/launchblockmc/sdk-java)
 🔗 [Paper Plugin Repository](https://github.com/launchblockmc/plugin-paper)
 🔗 [Skript Addon Repository](https://github.com/launchblockmc/plugin-skript)
